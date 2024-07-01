@@ -195,3 +195,6 @@ pyrightconfig.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python
+.vscode/launch.json
+dags/sample_dags/l3_e3_connections_hooks.py
+dags/sample_dags/l3_e4_s3_to_redshift.py
